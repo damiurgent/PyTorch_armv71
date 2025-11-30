@@ -1,4 +1,4 @@
 # PyTorch_armv7l
 PyTorch v2.3.1 for armv7l architecture CPU only. No CUDA, no ROCm.
-Assembly .whl is expected by 2025 November 30.
-Progress 6543/6651 (98.37%).
+Assembly .whl is expected by 2025 December 1.
+Progress 6589/6651 (99.06%).
